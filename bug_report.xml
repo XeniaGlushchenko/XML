@@ -1,1 +1,7 @@
-
+<BugReport>
+  <BugDescription>Exit buttons with visual flaw</BugDescription>
+  <BugType>Visual</BugType>
+  <ExpectedResult>The exit button is visually symmetrical</ExpectedResult>
+  <ActualResult>The cross in this button is not centered, shifted to the right from the center</ActualResult>
+  <Severity>Low</Severity>
+</BugReport>
